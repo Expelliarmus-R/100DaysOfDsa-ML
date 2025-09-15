@@ -1,6 +1,6 @@
-# Day 1 - Machine Learning Basics 🤖
+# Day 1 - Machine Learning Basics 
 
-## 📌 Topics Covered
+##  Topics Covered
 1. **What is Machine Learning?**
    - Field of AI that allows systems to learn from data and improve performance without being explicitly programmed.
 
@@ -15,7 +15,11 @@
 
 ---
 
-## ✅ Summary
+##  Summary
 - Machine Learning is a subset of AI.  
 - Three main categories: Supervised, Unsupervised, Reinforcement.  
 - ML focuses on data-driven learning instead of rule-based programming.
+- NOTE:1)If any datasets that contain the information about the targets , it falls under the category of supervise learning
+       2)If any datasets that doesnt contain information about the targets then it is Unsupervised learning
+  Course:
+  Coding Ninjas + Chatgpt 
