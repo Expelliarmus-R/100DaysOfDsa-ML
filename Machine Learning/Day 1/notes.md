@@ -20,6 +20,7 @@
 - Three main categories: Supervised, Unsupervised, Reinforcement.  
 - ML focuses on data-driven learning instead of rule-based programming.
 - NOTE:1)If any datasets that contain the information about the targets , it falls under the category of supervise learning
-       2)If any datasets that doesnt contain information about the targets then it is Unsupervised learning
-  Course:
+  2)If any datasets that doesnt contain information about the targets then it is Unsupervised learning
+
+   Course:
   Coding Ninjas + Chatgpt 
