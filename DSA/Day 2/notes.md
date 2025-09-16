@@ -9,11 +9,11 @@
 
 ### Problems Covered  
 1.**Reverse Pairs** – advanced problem (uses modified merge sort)    
-2. **Floor and Ceil** – finding floor & ceil of an element  
+2.**Binary Search** – basic implementation   
 3. **Lower Bound** – first index where element ≥ target  
 4. **Upper Bound** – first index where element > target  
 5. **Search Insert Position** – position to insert an element in sorted array  
-6. **Binary Search** – basic implementation
+6. **Floor and Ceil** – finding floor & ceil of an element
 
 ---
 
