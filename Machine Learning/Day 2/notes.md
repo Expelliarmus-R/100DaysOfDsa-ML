@@ -1,33 +1,23 @@
-Steps in a Supervised Learning Workflow (Correct Order)
+## What I Learned Today
 
-Find Data Source
+Understood the workflow of supervised learning
 
-Identify the dataset source (CSV, API, database, Kaggle, etc.)
+Learned the correct sequence of steps to follow in an ML project
 
-Load the Data
+Realized the importance of data preprocessing (cleaning & splitting) before training
 
-Import the dataset into your environment (e.g., pandas.read_csv())
+Understood how training and testing phases ensure the model generalizes well
 
-Clean the Data
+## Steps in Supervised Learning (in correct order)
 
-Handle missing values, duplicates, outliers, inconsistent formats
+Find Data Source – identify dataset (CSV, API, database, Kaggle, etc.)
 
-Apply feature scaling/encoding if needed
+Load the Data – import into environment (e.g., Pandas)
 
-Split the Data
+Clean the Data – handle missing values, duplicates, outliers, scaling, encoding
 
-Divide into training set (to learn) and testing set (to evaluate)
+Split the Data – training vs testing set (e.g., 80:20)
 
-Common split: 80% training / 20% testing
+Train the Model – apply chosen ML algorithm on training set
 
-Train the Model
-
-Feed training data to a chosen ML algorithm
-
-Examples: Linear Regression, Decision Trees, etc.
-
-Test the Model
-
-Evaluate performance on testing data (unseen samples)
-
-Use metrics like accuracy, precision, recall, F1, RMSE, etc
+Test the Model – evaluate on unseen/testing set with metrics (accuracy, precision, recall, F1, RMSE, etc.)
