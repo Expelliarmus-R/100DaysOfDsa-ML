@@ -1,7 +1,7 @@
 def single(arr):
-    low=0
+    low=1
     n=len(arr)
-    high=n-1
+    high=n-2
     if n == 1:
         return arr[0]
     if arr[0] != arr[1]:
@@ -20,4 +20,5 @@ def single(arr):
 
 arr=[1,1,2,2,3,3,5,5,6,6,7,8,8,9,9]
 s=single(arr)
+
 print(s)
