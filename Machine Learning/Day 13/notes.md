@@ -1,4 +1,4 @@
-# Day 13 – Machine Learning  
+# Day 13 – AI 
 
 ###  What I Learned Today  
 - Revised basics of **LangChain**  
